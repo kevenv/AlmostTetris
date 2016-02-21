@@ -4,6 +4,7 @@
 *.manifest
 *.exe
 *.cd
+*.txt
 
 Tetris/bin
 Tetris/obj
